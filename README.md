@@ -1,3 +1,3 @@
 # cardbot
 
-this card bot
+this card bot have special cards 
