@@ -1,3 +1,5 @@
 # noodlees bot
 
-this card bot can count noodless
+I create a little bot in Telegram:
+
+There you can count noodless
