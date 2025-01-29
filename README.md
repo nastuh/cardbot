@@ -1,3 +1,3 @@
-# cardbot
+# noodlees bot
 
-this card bot have special cards which you can sold 
+this card bot can count noodless
